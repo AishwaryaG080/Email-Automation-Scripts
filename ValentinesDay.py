@@ -74,9 +74,9 @@ I Love You Aho❤️
 
 # ---------- MAIN ----------
 def main():
-    sender_email = "aishwaryagaikwad080@gmail.com"
-    app_password = "oaszxhjlihrjacoy"
-    receiver = "guruprasad.dalvi7@gmail.com"
+    sender_email = ""
+    app_password = ""
+    receiver = ""
 
     print("💌 Valentine script started at", datetime.now())
 
