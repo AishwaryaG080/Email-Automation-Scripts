@@ -20,16 +20,15 @@ birthday_messages = [
         "Happy Birthday 🎉🎂",
         """
 
-A gadva, Happy Birthday!!
+Happy Birthday!!
 
 — Aishwarya
 """
     ),
     (
-        "Undra 😊",
-        """makada,
+        " 😊",
 
-Gadva, kasa vatla maza surprise....hahahahaha
+ kasa vatla maza surprise....hahahahaha
 
 — Aishwarya
 """
@@ -43,9 +42,9 @@ Happy Birthday once again ❤️
 ]
 
 def main():
-    sender_email = "vishwajeetgaikwad15@gmail.com"
-    app_password = "aszxhjlihrjacoy"
-    receiver_email = "aishwaryagaikwad080@gmail.com"
+    sender_email = ""
+    app_password = ""
+    receiver_email = ""
 
     print("🎂 Birthday script started at", datetime.now())
 
